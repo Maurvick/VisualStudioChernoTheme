@@ -1,0 +1,42 @@
+/* Visual Studio Settings File */
+{
+  "languages.typescript.formatting.general.importModuleSpecifierPreference": "relative",
+  "languages.typescript.project.noClosedFileDiagnostics": false,
+  "textEditor.codeCompletions.preferences.showCodeCompletionsOnNewLines": false,
+  "textEditor.codeCompletions.general.codeCompletionsInvocation": "manual",
+  "textEditor.codeLens.typeScriptReferencesCodeLensProvider": true,
+  "environment.security.trust.locations": [
+    {
+      "location": "C:\\Users\\User\\source\\repos\\ChernoTheme\\",
+      "locationType": "folder",
+      "trustedBy": "system"
+    },
+    {
+      "location": "C:\\Users\\User\\source\\repos\\VSThemeCherno\\",
+      "locationType": "folder",
+      "trustedBy": "system"
+    }
+  ],
+  "environment.fontsAndColors.textEditor.[dark].keyword.foreground": "#E65341",
+  "environment.fontsAndColors.textEditor.[dark].className.foreground": "#E98934",
+  "environment.fontsAndColors.textEditor.[dark].plainText.foreground": "#B9B58A",
+  "environment.fontsAndColors.textEditor.[dark].localName.foreground": "#938E63",
+  "environment.fontsAndColors.textEditor.[dark].methodName.foreground": "#ECD755",
+  "environment.fontsAndColors.textEditor.[dark].parameterName.foreground": "#B9B58A",
+  "environment.fontsAndColors.textEditor.[dark].constantName.foreground": "#825285",
+  "environment.fontsAndColors.textEditor.[dark].branchConditionHighlight-false.foreground": "#C14C46",
+  "environment.fontsAndColors.textEditor.[dark].branchConditionHighlight-true.foreground": "#C14C46",
+  "environment.fontsAndColors.textEditor.[dark].namespaceName.foreground": "#AABB98",
+  "environment.fontsAndColors.textEditor.[dark].type.foreground": "#E98934",
+  "languages.cpp.intelliSense.references.maxFindReferencesThreads": 7,
+  "languages.cpp.intelliSense.maximumCachedTranslationUnits": 15,
+  "languages.cpp.intelliSense.browsingNavigation.wholeCodebaseSemanticIndex.maximumWorkerThreads": 4,
+  "environment.fontsAndColors.textEditor.[dark].cppMemberFunctionSemanticTokenFormat.foreground": "#E98934",
+  "environment.fontsAndColors.textEditor.[dark].cppTypeSemanticTokenFormat.foreground": "#ECD755",
+  "environment.fontsAndColors.textEditor.[dark].cppParameterSemanticTokenFormat.foreground": "#B9B58A",
+  "environment.fontsAndColors.textEditor.[dark].cppNamespaceSemanticTokenFormat.foreground": "#BBC5B0",
+  "environment.fontsAndColors.textEditor.[dark].cppStaticMemberFunctionSemanticTokenFormat.foreground": "#E98934",
+  "environment.fontsAndColors.textEditor.[dark].cppLocalVariableSemanticTokenFormat.foreground": "#B9B58A",
+  "environment.fontsAndColors.textEditor.[dark].cppMemberFieldSemanticTokenFormat.foreground": "#B9B58A",
+  "environment.fontsAndColors.textEditor.[dark].cppMacroSemanticTokenFormat.foreground": "#9A6D9B"
+}
